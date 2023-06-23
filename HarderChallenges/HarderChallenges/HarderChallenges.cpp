@@ -40,15 +40,5 @@ int main()
 
 	cout << *point << endl; //outputs the value of the variable its pointing to instead of its location in memory 
 
-	cout << "\n";
-
-	//MAIN() FUNCTION CHALLENGE
-	FunctionChallenge(); // 3. call the function
-	return 0;
-
-}
-void FunctionChallenge() {
-	cout << 2;
-}
 
 
