@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TemplatesAndBasics/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TemplatesAndBasics/Content/StarterContent/Blueprints/BP_FinishLine.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TemplatesAndBasics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/GI/AF3G0V3EJLUK81CUC6ZAM6.uasset"
+			]
+		}
+	]
+}

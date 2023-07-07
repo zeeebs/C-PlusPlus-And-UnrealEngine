@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/LevelDesign.umap",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Brick_Clay_Old_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Ceramic_Tile_M_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Ceramic_Tile_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Concrete_Grime_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Concrete_Poured_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Concrete_Tiles_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Detail_Rocky_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Lamp_M_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Rock_Marble_Polished_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset",
+				"C:/Users/zella/Desktop/Tech Academy/C-PlusPlus-And-UnrealEngine/Unreal Projects/LevelDesigner/Content/StarterContent/Props/Materials/walls.uasset"
+			]
+		}
+	]
+}
