@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/ImportedContent/Basic_Asset1.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/ImportedContent/Basic_Asset2.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/ImportedContent/blinn2.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/ImportedContent/T_Rock_04_D.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/ImportedContent/T_Rock_04_n.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/ImportedContent/TutorialAssetMaterial.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HH/V9PMT6T4VWTRAQLJSL7GKE.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EJ/PGUWWHRTS59S34GKBX0OUI.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/OG/KDQDMXAXZXD8VLDDU4K3JL.uasset",
+				"C:/Users/zella/OneDrive/Documents/Unreal Projects/TestProject/Content/ImportedContent/T_Rock_04_Mat.uasset"
+			]
+		}
+	]
+}
