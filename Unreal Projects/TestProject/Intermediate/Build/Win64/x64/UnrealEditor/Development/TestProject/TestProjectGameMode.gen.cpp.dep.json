@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\zella\\onedrive\\documents\\unreal projects\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\testproject\\uht\\testprojectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zella\\onedrive\\documents\\unreal projects\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\zella\\onedrive\\documents\\unreal projects\\testproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testproject\\definitions.testproject.h",
+            "c:\\users\\zella\\onedrive\\documents\\unreal projects\\testproject\\source\\testproject\\testprojectgamemode.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\zella\\onedrive\\documents\\unreal projects\\testproject\\intermediate\\build\\win64\\unrealeditor\\inc\\testproject\\uht\\testprojectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
